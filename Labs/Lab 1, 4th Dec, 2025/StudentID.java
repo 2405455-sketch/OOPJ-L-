@@ -14,7 +14,6 @@ public class StudentID {
 
         System.out.println("Enter Section: CSE-");
         int section=sc.nextInt();
-
         System.out.println("Name:"+name+"\nRoll no:"+roll+"\nSection:"+section+"\nBranch:"+branch);
     }
 }
